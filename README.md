@@ -5,6 +5,7 @@ Made with ChatGPT 4o
 Features 
 
 - Made for Windows 10 or newer
+- Uses Powershell
 - Block Via Host file
 - Block Via Firewall
 - menu selection
